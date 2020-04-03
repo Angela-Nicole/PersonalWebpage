@@ -1,0 +1,25 @@
+
+body {
+	background-image: url(Web_Background.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+.titles {
+	background-color: rgba(202, 172, 220, 0.5);
+	color: #FFC1A3;
+	position: absolute;
+	left: 0;
+	width: 100%;
+	text-align: center;
+}
+
+.heading1{
+	top: 50%;
+	font-size: 40px;
+}
+.heading2{
+	top: 56%;
+	font-size: 30px;
+}
